@@ -6,7 +6,7 @@
 
 ## Task Information
 
-**Task:** Task 3 – Personal Front-End Website
+**Task:** Task 1 – Personal Front-End Website
 
 **Track:** Web Programming and Applications
 
@@ -75,5 +75,4 @@ Information Technology Student
 
 2026
 
-**link:**
-file:///C:/Users/arjwa/Downloads/index.html#about
+
